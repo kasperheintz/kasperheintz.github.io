@@ -24,9 +24,9 @@ My group is funded by the **Independent Research Fund Denmark** (2025-2029) and 
 <!-- Add new items at the top: - **Mon YYYY** — text -->
 - **Nov 2026** — New website online.
 - **Aug 2026** — Awarded an ERC Starting Grant for the PRIMORDIAL project.
-- **Jun 2026** - Awarded the A&A Outstanding Early Career Researcher Article 2026
+- **Jun 2026** — Awarded the A&A Outstanding Early Career Researcher Article 2026
 - **Feb 2026** — Employed on the faculty at DTU Space as Associate Professor.
-- **Aug 2025** - Awarded a DFF Sapere Aude research leader grant.
+- **Aug 2025** — Awarded a DFF Sapere Aude research leader grant.
 
 </div>
 
