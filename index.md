@@ -27,7 +27,7 @@ For more information, have a look at my current [research](https://kasperheintz.
 - **Nov 2026** — New website online.
 - **Aug 2026** — Awarded an ERC Starting Grant for the PRIMORDIAL project.
 - **Jun 2026** — Granted the A&A Award for Outstanding Early Career Researcher Article 2026.
-- **Feb 2026** — Employed on the faculty at DTU Space as Associate Professor.
+- **Feb 2026** — Employed as Associate Professor on the faculty at DTU Space.
 - **Aug 2025** — Awarded a DFF Sapere Aude research leader grant.
 
 </div>
