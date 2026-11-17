@@ -8,23 +8,25 @@ title: About
 
 # Kasper E. Heintz
 
-I am an Associate Professor at **DTU Space**, the national space institute at the Technical University of Denmark, where I lead the **Primordial Universe** research group.
+I am an Associate Professor at **DTU Space**, the National Space Institute, Technical University of Denmark, where I lead the **Primordial Universe** research group.
 
 I primarily use JWST and ALMA to study how the first galaxies formed and evolved during the first billion years after the Big Bang: their neutral gas reservoirs, the first heavy elements, and the massive stars that drove cosmic reionization.
 
-My group is funded by an **ERC Starting Grant** and the **Independent Research Fund Denmark**.
+My group is funded by the **Independent Research Fund Denmark** (2025-2029) and an **ERC Starting Grant** (2026-2031).
 
 </div>
 </div>
 
-## News
+## Recent news
 
 <div class="news" markdown="1">
 
 <!-- Add new items at the top: - **Mon YYYY** — text -->
 - **Nov 2026** — New website online.
-- **2026** — Awarded an ERC Starting Grant for the Primordial Universe group.
-- **Feb 2026** — Moved to DTU Space as Associate Professor.
+- **Aug 2026** — Awarded an ERC Starting Grant for the PRIMORDIAL project.
+- **Jun 2026** - Awarded the A&A Outstanding Early Career Researcher Article 2026
+- **Feb 2026** — Employed on the faculty at DTU Space as Associate Professor.
+- **Aug 2025** - Awarded a DFF Sapere Aude research leader grant.
 
 </div>
 
