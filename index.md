@@ -3,7 +3,7 @@ title: About
 ---
 
 <div class="intro" markdown="1">
-<img src="/images/profile.svg" alt="Kasper E. Heintz">
+<img src="/images/KasperProfile.png" alt="Kasper E. Heintz">
 <div markdown="1">
 
 # Kasper E. Heintz
@@ -30,4 +30,4 @@ My group is funded by an **ERC Starting Grant** and the **Independent Research F
 
 ## Open positions
 
-I am always happy to hear from prospective students and postdocs interested in the early Universe. [Get in touch](mailto:YOUR-EMAIL@space.dtu.dk).
+I am always happy to hear from prospective students and postdocs interested in the early Universe. [Get in touch](mailto:kelhe@space.dtu.dk).
