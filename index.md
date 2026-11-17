@@ -12,7 +12,9 @@ I am an Associate Professor at **DTU Space**, the National Space Institute, Tech
 
 I primarily use JWST and ALMA to study how the first galaxies formed and evolved during the first billion years after the Big Bang: their neutral gas reservoirs, the first heavy elements, and the massive stars that drove cosmic reionization.
 
-My group is funded by the **Independent Research Fund Denmark** (2025-2029) and an **ERC Starting Grant** (2026-2031). For more information, have a look at my current [research](https://kasperheintz.github.io/research/) activities, [CV](https://kasperheintz.github.io/cv/), the local Primordial Universe [group](https://kasperheintz.github.io/group/), a list of highlighted [publications](https://kasperheintz.github.io/publications/), and [outreach](https://kasperheintz.github.io/outreach/) events. 
+My group is funded by the **Independent Research Fund Denmark** (2025-2029) and an **ERC Starting Grant** (2026-2031). 
+
+For more information, have a look at my current [research](https://kasperheintz.github.io/research/) activities, [CV](https://kasperheintz.github.io/cv/), the local Primordial Universe [group](https://kasperheintz.github.io/group/), a list of highlighted [publications](https://kasperheintz.github.io/publications/), and [outreach](https://kasperheintz.github.io/outreach/) events. 
 
 </div>
 </div>
