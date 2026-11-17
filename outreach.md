@@ -1,0 +1,22 @@
+---
+title: Outreach & Teaching
+---
+
+## Public talks (in Danish)
+
+I give popular-science talks for schools, associations and the general public. Get in touch to book one of these:
+
+- **Det Mørke Univers**: dark matter and dark energy, the invisible majority of the cosmos.
+- **Grundstoffernes Astrofysiske Oprindelse**: where the elements in our bodies were forged.
+- **Da Universet Tændte**: the first stars and galaxies, seen with the James Webb Space Telescope.
+- **Ekstreme Stjerner**: the most massive, brightest and most violent stars.
+- **Sorte Huller**: *coming soon.*
+
+## Recent talks and events
+
+<!-- - **Mon YYYY** — Title, venue, city -->
+- **Mon YYYY** — Talk title, venue, city
+
+## Teaching
+
+- **Astrophysical processes / X-ray astrophysics** (BSc), DTU: gamma-ray bursts, supernovae and their remnants, with computer exercises on real data.
