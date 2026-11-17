@@ -12,7 +12,7 @@ I am an Associate Professor at **DTU Space**, the National Space Institute, Tech
 
 I primarily use JWST and ALMA to study how the first galaxies formed and evolved during the first billion years after the Big Bang: their neutral gas reservoirs, the first heavy elements, and the massive stars that drove cosmic reionization.
 
-My group is funded by the **Independent Research Fund Denmark** (2025-2029) and an **ERC Starting Grant** (2026-2031).
+My group is funded by the **Independent Research Fund Denmark** (2025-2029) and an **ERC Starting Grant** (2026-2031). For more information, have a look at my current [research](https://kasperheintz.github.io/research/) activities, [CV](https://kasperheintz.github.io/cv/), the local Primordial Universe [group](https://kasperheintz.github.io/group/), a list of highlighted [publications](https://kasperheintz.github.io/publications/), and [outreach](https://kasperheintz.github.io/outreach/) events. 
 
 </div>
 </div>
@@ -24,7 +24,7 @@ My group is funded by the **Independent Research Fund Denmark** (2025-2029) and 
 <!-- Add new items at the top: - **Mon YYYY** — text -->
 - **Nov 2026** — New website online.
 - **Aug 2026** — Awarded an ERC Starting Grant for the PRIMORDIAL project.
-- **Jun 2026** — Awarded the A&A Outstanding Early Career Researcher Article 2026
+- **Jun 2026** — Granted the A&A Award for Outstanding Early Career Researcher Article 2026.
 - **Feb 2026** — Employed on the faculty at DTU Space as Associate Professor.
 - **Aug 2025** — Awarded a DFF Sapere Aude research leader grant.
 
@@ -32,4 +32,4 @@ My group is funded by the **Independent Research Fund Denmark** (2025-2029) and 
 
 ## Open positions
 
-I am always happy to hear from prospective students and postdocs interested in the early Universe. [Get in touch](mailto:kelhe@space.dtu.dk).
+I am always happy to hear from prospective students and Postdocs interested in joining my group. [Get in touch](mailto:kelhe@space.dtu.dk).
