@@ -1,0 +1,43 @@
+# ------------------------------------------------------------
+# Site settings — edit these lines to change name, links, menu
+# ------------------------------------------------------------
+title: Kasper E. Heintz
+tagline: Associate Professor · DTU Space
+description: Observational astrophysicist studying the first galaxies, neutral gas and chemical enrichment at cosmic dawn with JWST and ALMA.
+
+# Contact & profile links (leave a line empty "" to hide it)
+email: "YOUR-EMAIL@space.dtu.dk"
+ads: "https://ui.adsabs.harvard.edu/search/q=author%3A%22Heintz%2C%20K.%20E.%22&sort=date%20desc"
+orcid: ""          # e.g. https://orcid.org/0000-0000-0000-0000
+github: "https://github.com/keheintz"
+bluesky: ""        # e.g. https://bsky.app/profile/yourname
+
+# Top menu — order here = order on the site
+navigation:
+  - title: About
+    url: /
+  - title: Research
+    url: /research/
+  - title: Group
+    url: /group/
+  - title: Publications
+    url: /publications/
+  - title: Outreach & Teaching
+    url: /outreach/
+  - title: CV
+    url: /cv/
+
+# ------------------------------------------------------------
+# Technical settings — no need to touch these
+# ------------------------------------------------------------
+markdown: kramdown
+permalink: pretty
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - README.md
+  - preview.py
+  - _preview
