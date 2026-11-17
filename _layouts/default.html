@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <span class="site-tagline">{{ site.tagline }}</span>
+      <nav>
+        {% for item in site.navigation %}
+        <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active"{% endif %}>{{ item.title }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    {% if page.title and page.url != "/" %}<h1>{{ page.title }}</h1>{% endif %}
+    {{ content }}
+  </main>
+
+  <footer class="wrap site-footer">
+    <div class="links">
+      {% if site.email != "" %}<a href="mailto:{{ site.email }}">Email</a>{% endif %}
+      {% if site.ads != "" %}<a href="{{ site.ads }}">NASA ADS</a>{% endif %}
+      {% if site.orcid != "" %}<a href="{{ site.orcid }}">ORCID</a>{% endif %}
+      {% if site.github != "" %}<a href="{{ site.github }}">GitHub</a>{% endif %}
+      {% if site.bluesky != "" %}<a href="{{ site.bluesky }}">Bluesky</a>{% endif %}
+    </div>
+    <div class="updated">Last updated {{ site.time | date: "%B %Y" }}</div>
+  </footer>
+</body>
+</html>
