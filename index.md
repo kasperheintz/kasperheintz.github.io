@@ -8,9 +8,9 @@ title: About
 
 # Kasper E. Heintz
 
-I am an Associate Professor at **DTU Space**, Technical University of Denmark, where I lead the **Primordial Universe** research group.
+I am an Associate Professor at **DTU Space**, The department for space research and technology at the Technical University of Denmark, where I lead the **Primordial Universe** research group.
 
-I use JWST and ALMA to study how the first galaxies formed and grew during the first billion years after the Big Bang: their neutral gas reservoirs, the first heavy elements, and the massive stars that drove cosmic reionization.
+I primarily use JWST and ALMA to study how the first galaxies formed and evolved during the first billion years after the Big Bang: their neutral gas reservoirs, the first heavy elements, and the massive stars that drove cosmic reionization.
 
 My group is funded by an **ERC Starting Grant** and the **Independent Research Fund Denmark**.
 
