@@ -1,5 +1,5 @@
 ---
-title: Outreach & Teaching
+title: Outreach
 ---
 
 ## Public talks (in Danish)
@@ -17,6 +17,3 @@ I give popular-science talks for schools, associations and the general public. G
 <!-- - **Mon YYYY** — Title, venue, city -->
 - **Mon YYYY** — Talk title, venue, city
 
-## Teaching
-
-- **Astrophysical processes / X-ray astrophysics** (BSc), DTU: gamma-ray bursts, supernovae and their remnants, with computer exercises on real data.
