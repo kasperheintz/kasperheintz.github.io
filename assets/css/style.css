@@ -48,13 +48,14 @@ small, .meta { font: 0.85rem "Inter", sans-serif; color: var(--muted); }
 .intro h1 { margin-top: 0; }
 
 /* Research page: image + text blocks */
-.research-item { margin-top: 2.2em; }
-.research-item img { width: 220px; aspect-ratio: 16 / 9; object-fit: cover; }
-.research-item > div { flex: 1; }
-.research-item h2 { margin-top: 0; padding-top: 0; border-top: none; }
+.intro.research-item { margin-top: 2.4em; gap: 28px; }
+.intro.research-item img { width: 330px; aspect-ratio: 16 / 9; object-fit: cover; }
+.intro.research-item > div { flex: 1; min-width: 0; }
+.intro.research-item h2 { margin-top: 0; padding-top: 0; border-top: none; }
 @media (max-width: 620px) {
   .intro { flex-direction: column; gap: 18px; }
   .intro img { width: 150px; }
+  .intro.research-item img { width: 100%; }
 }
 
 /* News list: "- **Nov 2026** — text" */
