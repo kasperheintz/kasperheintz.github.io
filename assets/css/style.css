@@ -46,6 +46,12 @@ small, .meta { font: 0.85rem "Inter", sans-serif; color: var(--muted); }
 .intro img { width: 190px; border-radius: 6px; display: block; }
 .intro > p:first-child { margin: 0; flex-shrink: 0; }
 .intro h1 { margin-top: 0; }
+
+/* Research page: image + text blocks */
+.research-item { margin-top: 2.2em; }
+.research-item img { width: 220px; aspect-ratio: 16 / 9; object-fit: cover; }
+.research-item > div { flex: 1; }
+.research-item h2 { margin-top: 0; padding-top: 0; border-top: none; }
 @media (max-width: 620px) {
   .intro { flex-direction: column; gap: 18px; }
   .intro img { width: 150px; }
