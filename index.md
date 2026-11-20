@@ -2,8 +2,10 @@
 title: About
 ---
 
+<div class="intro" markdown="2">
 <img src="/images/KasperProfile_round.png" alt="Kasper E. Heintz">
-
+<div markdown="1">
+  
 # Kasper E. Heintz
 
 I am an Associate Professor at **DTU Space**, the National Space Institute, Technical University of Denmark, where I lead the **Primordial Universe** research group.
