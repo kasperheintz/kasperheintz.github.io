@@ -4,13 +4,15 @@ title: Research
 
 My research focuses on the formation and early evolution of galaxies at cosmic dawn, using mainly observations from JWST, VLT, and ALMA.
 
-<div class="intro" markdown="1">
 <img src="/images/2024-114-Draft_04.jpg" alt="Galaxy assembly">
-<div markdown="1">
 
 ## Neutral gas in the first galaxies
 
 Galaxies grow by accreting cold, neutral hydrogen. With JWST we can now see this gas directly as damped Lyman-α absorption in galaxies only a few hundred million years after the Big Bang, including systems beyond redshift 10. Together with ALMA observations of [CII], this lets us measure how much fuel early galaxies had and how it was distributed.
+
+<div class="intro" markdown="1">
+<img src="/images/eso1_1280p.jpg" alt="Metal enrichment">
+<div markdown="1">
 
 ## The first heavy elements
 
