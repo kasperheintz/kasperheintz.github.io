@@ -3,14 +3,14 @@ title: Publications
 ---
 
 ## Citation metrics
-(From SciX, as of Nov. 2026)
 
 **First-author papers:** 26 peer-reviewed and published<br> 
 **First-author citations:** 1,412<br>
 **Total papers:** 147 peer-reviewed and published<br>
 **Total citations:** 14,941<br>
 **Total citations / year:** 1,300<br>
-**h-index:** 56
+**h-index:** 56<br>
+(From SciX, as of Nov. 2026)
 
 My complete and up-to-date publication record can be found on SciX:
 
