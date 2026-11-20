@@ -2,9 +2,7 @@
 title: About
 ---
 
-<div class="intro" markdown="1">
 <img src="/images/KasperProfile_round.png" alt="Kasper E. Heintz">
-<div markdown="1">
 
 # Kasper E. Heintz
 
