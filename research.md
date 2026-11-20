@@ -2,7 +2,11 @@
 title: Research
 ---
 
-My research focuses on the formation and early evolution of galaxies at cosmic dawn, using spectroscopy from JWST and ALMA.
+My research focuses on the formation and early evolution of galaxies at cosmic dawn, using mainly observations from JWST, VLT, and ALMA.
+
+<div class="intro" markdown="1">
+<img src="/images/KasperProfile_round.png" alt="Kasper E. Heintz">
+<div markdown="1">
 
 ## Neutral gas in the first galaxies
 
