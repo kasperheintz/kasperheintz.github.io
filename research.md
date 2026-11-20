@@ -12,9 +12,9 @@ My research focuses on the formation and early evolution of galaxies at cosmic d
 
 Galaxies grow by accreting cold, neutral hydrogen. With JWST we can now see this gas directly as damped Lyman-α absorption in galaxies only a few hundred million years after the Big Bang, including systems beyond redshift 10. Together with ALMA observations of far-infrared ISM cooling lines, this lets us measure how much fuel early galaxies had and how it was distributed.
 
-<div class="intro" markdown="2">
+<div class="intro" markdown="1">
 <img src="/images/eso1_1280p.jpg" alt="Metal enrichment">
-<div markdown="2">
+<div markdown="1">
 
 ## The first heavy elements
 
