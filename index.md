@@ -23,7 +23,8 @@ For more information, have a look at my current [research](https://kasperheintz.
 <div class="intro" markdown="1">
 <img src="/images/LEDA-2046648-1100x600.jpg" alt="Galaxies">
 <div markdown="1">
-
+</div>
+</div>
 
 ## Recent news
 
