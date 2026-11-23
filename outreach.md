@@ -13,7 +13,7 @@ I give popular-science talks for schools, associations and the general public. G
 - **Sorte Huller**: *coming soon.*
 
 <div class="intro" markdown="1">
-<img src="/images/LRDtalk.jpg" alt="Black Hole Stars">
+<img src="/images/LRDtalk.JPG" alt="Black Hole Stars">
 <div markdown="1">
 
 ## Recent talks and events
