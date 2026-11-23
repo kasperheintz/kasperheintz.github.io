@@ -14,7 +14,7 @@ I primarily use JWST and ALMA to study how the first galaxies formed and evolved
 
 My group is funded by the **Independent Research Fund Denmark** (2025-2029) and an **ERC Starting Grant** (2026-2031). 
 
-For more information, have a look at my current [research](https://kasperheintz.github.io/research/) activities, [CV](https://kasperheintz.github.io/cv/), the local Primordial Universe [group](https://kasperheintz.github.io/group/), a list of highlighted [publications](https://kasperheintz.github.io/publications/), and [outreach](https://kasperheintz.github.io/outreach/) events. 
+For more information, have a look at my current [research](https://kasperheintz.github.io/research/) activities, [CV](https://kasperheintz.github.io/cv/), the local Primordial Universe [group](https://kasperheintz.github.io/group/), and [outreach](https://kasperheintz.github.io/outreach/) events. 
 
 </div>
 </div>
