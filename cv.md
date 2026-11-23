@@ -6,13 +6,16 @@ title: CV
 
 ## Positions
 
-- **2026–** Associate Professor, DTU Space, Technical University of Denmark
-- **YYYY–2026** Assistant Professor, Cosmic Dawn Center (DAWN), Niels Bohr Institute, University of Copenhagen
-- **YYYY–YYYY** Previous position, Institution
+- **2026 –** Associate Professor, DTU Space, National Space Institute, Technical University of Denmark
+- **2022–2026** Assistant Professor, Cosmic Dawn Center (DAWN), Niels Bohr Institute, University of Copenhagen
+- **2019–2022** Postdoctoral researcher and Rannís Fellow at the Science Institute, University of Iceland
 
 ## Education
 
-- **YYYY** PhD in Astrophysics, Institution
+- **2016–2019** PhD in Astrophysics, Science Institute, University of Iceland<br>
+Thesis: *Galaxies through cosmic time illuminated by gamma-ray bursts and quasars*<br>
+Supervisor: Páll Jakobsson
+- **2011–2016** B.Sc. + M.Sc. in Astrophysics, Niels Bohr Institute, University of Copenhagen
 
 ## Grants and awards
 
