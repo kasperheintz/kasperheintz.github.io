@@ -20,12 +20,10 @@ navigation:
     url: /research/
   - title: Group
     url: /group/
-  - title: Publications
-    url: /publications/
-  - title: Outreach
-    url: /outreach/
   - title: CV
     url: /cv/
+  - title: Outreach
+    url: /outreach/
 
 # ------------------------------------------------------------
 # Technical settings — no need to touch these
