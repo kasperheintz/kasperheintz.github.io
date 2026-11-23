@@ -22,14 +22,14 @@ title: CV
 
 ## Publications
 
-# Selected publications
+### Selected publications
 
 <!-- Copy one line, paste at the top, edit. Keep 5–10 highlights. -->
 - **Heintz, K. E.** et al. (2026). *Title of the JWST z>10 damped Lyα paper*. [arXiv:2606.30787](https://arxiv.org/abs/2606.30787)
 - **Heintz, K. E.** et al. (YEAR). *Paper title*. Journal. [ADS](https://ui.adsabs.harvard.edu/)
 - Student Name, **Heintz, K. E.** et al. (YEAR). *Paper title*. Journal. [ADS](https://ui.adsabs.harvard.edu/)
 
-# Citation metrics
+### Citation metrics
 
 **First-author papers:** 26 peer-reviewed and published<br> 
 **First-author citations:** 1,412<br>
