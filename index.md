@@ -2,7 +2,7 @@
 title: About
 ---
 
-<div class="intro" markdown="2">
+<div class="intro" markdown="1">
 <img src="/images/AltProfile.png" alt="Kasper E. Heintz">
 <div markdown="1">
   
@@ -18,6 +18,12 @@ For more information, have a look at my current [research](https://kasperheintz.
 
 </div>
 </div>
+
+
+<div class="intro" markdown="1">
+<img src="/images/LEDA-2046648-1100x600.jpg" alt="Galaxies">
+<div markdown="1">
+
 
 ## Recent news
 
