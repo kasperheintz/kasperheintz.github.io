@@ -19,13 +19,19 @@ Supervisor: Páll Jakobsson
 
 ## Grants and awards
 
-- **2026** ERC Starting Grant
-- **2025** Independent Research Fund Denmark grant
-
+- **2026** ERC Starting Grant (PRIMORIDAL, 101300487)
+- **2026** A&A's Outstanding Early Career Researcher Article (JWST-PRIMAL paper)
+- **2025** *Into Change* award from the Danish government as part of the ENGRAVE collaboration
+- **2025** Independent Research Fund Denmark's Sapere Aude research-leader grant (5251-00009B)
+- **2025** Berlingske Talent 100 award for most prominent person (under 36) in the public and business sector
+- **2023** Kirstine Meyer Memorial grant for the most promising young Danish researcher in the Natural Sciences
+- **2022** Villum Experiment grant to build a transient survey telescope
+- **2021** Carlsberg Foundation Postdoc Reintegration Fellowship
+- **2020** Rannís Independent Postdoc Fellowship
 
 ## Publications
 
-### Selected publications
+### Selected publications (TBD)
 
 <!-- Copy one line, paste at the top, edit. Keep 5–10 highlights. -->
 - **Heintz, K. E.** et al. (2026). *Title of the JWST z>10 damped Lyα paper*. [arXiv:2606.30787](https://arxiv.org/abs/2606.30787)
