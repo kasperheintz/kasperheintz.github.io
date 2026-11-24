@@ -4,11 +4,9 @@ title: Outreach
 
 I frequently and greatly enjoy doing various outreach activities (mostly in Danish), most recently in Rundetårn, Go'Morgen DK, podcasts, etc.  
 
-<div class="intro" markdown="1">
-<img src="/images/LRDtalk.JPG" alt="Black Hole Stars">
-<div markdown="1">
-
 ## Public talks (in Danish)
+
+<img class="wide-image" src="/images/LRDtalk.JPG" alt="Black Hole Stars">
 
 I give popular-science talks for schools, associations and the general public. Get in touch to book one of these:
 
@@ -18,11 +16,9 @@ I give popular-science talks for schools, associations and the general public. G
 - **Ekstreme Stjerner**: the most massive, brightest and most violent stars.
 - **Sorte Huller**: *coming soon.*
 
-<div class="intro" markdown="1">
-<img src="/images/508745938_10162973596827766_357882513930382587_n.jpg" alt="Planetarium Outreach">
-<div markdown="1">
-
 ## Recent talks and events (TBD)
+
+<img class="wide-image" src="/images/508745938_10162973596827766_357882513930382587_n.jpg" alt="Planetarium Outreach">
 
 <!-- - **Mon YYYY** — Title, venue, city -->
 - **Mon YYYY** — Talk title, venue, city
