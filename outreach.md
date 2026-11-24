@@ -19,10 +19,10 @@ I give popular-science talks for schools, associations and the general public. G
 - **Sorte Huller**: *coming soon.*
 
 <div class="intro" markdown="1">
-<img src="/images/LRDtalk.JPG" alt="Black Hole Stars">
+<img src="/images/508745938_10162973596827766_357882513930382587_n.jpg" alt="Planetarium Outreach">
 <div markdown="1">
 
-## Recent talks and events
+## Recent talks and events (TBD)
 
 <!-- - **Mon YYYY** — Title, venue, city -->
 - **Mon YYYY** — Talk title, venue, city
