@@ -4,7 +4,7 @@ title: Group
 
 The **Primordial Universe** group at DTU Space studies the first galaxies with JWST and ALMA. The group is funded by an ERC Starting Grant (2026) and the Independent Research Fund Denmark (2025).
 
-## Members
+## Members (TBD)
 
 <!-- One line per person: - **Name** — role. Short project description. -->
 <div class="people" markdown="1">
